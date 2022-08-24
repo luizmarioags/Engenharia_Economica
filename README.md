@@ -9,11 +9,3 @@ No arquivo [Questão 1 - Engenharia Econômica](https://github.com/luizmarioags/
 <img src="https://img.shields.io/badge/SciPy-654FF0?style=for-the-badge&logo=SciPy&logoColor=white" />
 
 Além da API do Yahoo Query para Python [API Yahoo Query]( https://github.com/dpguthrie/yahooquery).
-
-Outros exercícios envolendo análise de dados podem ser encontrados também nos seguintes repositórios: 
-
-[Gráficos - TDE](https://github.com/luizmarioags/Teoria-do-Desenvolvimento-Economico-)
-
-[Gráficos - Liga de Mercado Financeiro](https://github.com/luizmarioags/Liga-de-Mercado-Financeiro-UnB)
-
-[Análise de Dados envolvendo dados da B3](https://github.com/luizmarioags/Engenharia_Economica)
